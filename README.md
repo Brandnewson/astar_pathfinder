@@ -13,7 +13,7 @@ The program has 4 functions:
 - Set up "walls" for the algorithm to figure its way around
 - Execute the A-star algorithm
 
-Demo:
+<h3> Demo: </h3>
 
 
 https://user-images.githubusercontent.com/63832502/185533349-939f2db6-b585-4f41-bc6a-7ef0501197c0.mp4
