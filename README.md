@@ -1,9 +1,10 @@
 <h1>Pygame A-star pathfinder visualiser</h1>
 
-Ambition:
+<h2> Ambition: </h2>
 I was curious about how the algorithms behind the minds of our computer worked. This is my first step into finding out about algorithms.
 
-Method:
+<h2> Method: </h2>
+
 Utilising the pygame module in Python, I managed to easily visualise how the A-star algorithm worked.
 The program has 4 functions:
 
